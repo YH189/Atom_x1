@@ -2,7 +2,7 @@
 
 A simple HTML/CSS web page project with an embedded video.
 
-**Live site:** https://atomx1.netlify.app/****
+**Live site:** https://atomx1.netlify.app/
 
 ## Tech Stack
 - HTML
