@@ -20,5 +20,4 @@ Atom_x1/
 ## Deployment
 This project is deployed on [Netlify](https://www.netlify.com/).
 
-## Author
-**YH189**
+YH
