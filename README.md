@@ -17,14 +17,6 @@ Atom_x1/
 └── README.md
 ```
 
-## Getting Started
-Clone the repo and open `index.html` in your browser:
-
-```bash
-git clone https://github.com/YH189/Atom_x1.git
-cd Atom_x1
-```
-
 ## Deployment
 This project is deployed on [Netlify](https://www.netlify.com/).
 
