@@ -16,6 +16,8 @@ Atom_x1/
 ├── Atomx1.mp4
 └── README.md
 ```
+## Notes
+This project is built for desktop view only. Responsive design will be covered in future projects as I progress through my learning path.
 
 ## Deployment
 This project is deployed on [Netlify](https://atomx1.netlify.app/).
